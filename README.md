@@ -5,8 +5,9 @@ This repository contains an Excel-based data analysis of sales and customer beha
 
 📁 Project Structure:
 
-├── Vrinda Store Data Analysis.xlsx   # Main data analysis file
-├── README.md                         # Project documentation
+├── Vrinda Store Data Analysis.xlsx 
+
+├── README.md                         
 
 
 📌 Objective:
@@ -23,8 +24,12 @@ Microsoft Excel:
 Used for data cleaning, data processing , data analysis , pivot tables, charts, and visualizations.
 
 📌 Use Case:
-Perfect for retail businesses seeking:
+Perfect for retail businesses seeking
+
 Monthly and annual sales performance tracking
+
 Gender and age-based buyer analysis
+
 Multi-channel order distribution monitoring
+
 Visual data storytelling for internal reports or stakeholders
