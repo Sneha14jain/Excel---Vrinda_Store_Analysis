@@ -13,9 +13,13 @@ This repository contains an Excel-based data analysis of sales and customer beha
 📌 Objective:
 
 The primary objective of this analysis is to:
+
 Understand sales trends over time
+
 Identify top-selling products and categories
+
 Evaluate performance by region, customer type, or other available fields
+
 Generate actionable insights for business growth
 
 🧮 Tools Used:
