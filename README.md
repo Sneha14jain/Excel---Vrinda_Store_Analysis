@@ -5,6 +5,8 @@ This repository contains an Excel-based data analysis of sales and customer beha
 
 📁 Project Structure:
 
+├── Vrinda Store Data Analysis.jpg
+
 ├── Vrinda Store Data Analysis.xlsx 
 
 ├── README.md                         
